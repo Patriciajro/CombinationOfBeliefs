@@ -1,0 +1,11 @@
+C:\Personal\DST\PO_CombinationOfBeliefs\CombinationOfBeliefs\CombinationOfBeliefs\obj\Debug\net8.0\CombinationOfBeliefs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\DST\PO_CombinationOfBeliefs\CombinationOfBeliefs\CombinationOfBeliefs\obj\Debug\net8.0\CombinationOfBeliefs.AssemblyInfoInputs.cache
+C:\Personal\DST\PO_CombinationOfBeliefs\CombinationOfBeliefs\CombinationOfBeliefs\obj\Debug\net8.0\CombinationOfBeliefs.AssemblyInfo.cs
+C:\Personal\DST\PO_CombinationOfBeliefs\CombinationOfBeliefs\CombinationOfBeliefs\obj\Debug\net8.0\CombinationOfBeliefs.csproj.CoreCompileInputs.cache
+C:\Personal\DST\PO_CombinationOfBeliefs\CombinationOfBeliefs\CombinationOfBeliefs\bin\Debug\net8.0\CombinationOfBeliefs.deps.json
+C:\Personal\DST\PO_CombinationOfBeliefs\CombinationOfBeliefs\CombinationOfBeliefs\bin\Debug\net8.0\CombinationOfBeliefs.dll
+C:\Personal\DST\PO_CombinationOfBeliefs\CombinationOfBeliefs\CombinationOfBeliefs\bin\Debug\net8.0\CombinationOfBeliefs.pdb
+C:\Personal\DST\PO_CombinationOfBeliefs\CombinationOfBeliefs\CombinationOfBeliefs\obj\Debug\net8.0\CombinationOfBeliefs.dll
+C:\Personal\DST\PO_CombinationOfBeliefs\CombinationOfBeliefs\CombinationOfBeliefs\obj\Debug\net8.0\refint\CombinationOfBeliefs.dll
+C:\Personal\DST\PO_CombinationOfBeliefs\CombinationOfBeliefs\CombinationOfBeliefs\obj\Debug\net8.0\CombinationOfBeliefs.pdb
+C:\Personal\DST\PO_CombinationOfBeliefs\CombinationOfBeliefs\CombinationOfBeliefs\obj\Debug\net8.0\ref\CombinationOfBeliefs.dll

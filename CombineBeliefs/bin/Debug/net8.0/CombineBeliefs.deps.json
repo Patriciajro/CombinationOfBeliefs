@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CombineBeliefs/1.0.0": {
+        "dependencies": {
+          "CombinationOfBeliefs": "1.0.0"
+        },
+        "runtime": {
+          "CombineBeliefs.dll": {}
+        }
+      },
+      "CombinationOfBeliefs/1.0.0": {
+        "runtime": {
+          "CombinationOfBeliefs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CombineBeliefs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CombinationOfBeliefs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

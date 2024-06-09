@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CombineBeliefs", "CombineBeliefs\CombineBeliefs.csproj", "{E7170F07-4B10-4016-A5C2-B8BD17388654}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CombinationOfBeliefs", "CombinationOfBeliefs\CombinationOfBeliefs.csproj", "{0793BFF3-D4AE-4814-A5A7-147E2255CEF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7170F07-4B10-4016-A5C2-B8BD17388654}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7170F07-4B10-4016-A5C2-B8BD17388654}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7170F07-4B10-4016-A5C2-B8BD17388654}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7170F07-4B10-4016-A5C2-B8BD17388654}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0793BFF3-D4AE-4814-A5A7-147E2255CEF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0793BFF3-D4AE-4814-A5A7-147E2255CEF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0793BFF3-D4AE-4814-A5A7-147E2255CEF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0793BFF3-D4AE-4814-A5A7-147E2255CEF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D4837A3-1F6F-4762-941E-B33822A3DD51}
+	EndGlobalSection
+EndGlobal
